@@ -18,3 +18,5 @@ CSS预处理语言：[Less](http://lesscss.cn/)中文网；框架简介 [website
 幻灯片特效[Sudo Slider](http://webbies.dk/SudoSlider/demos.html#basic)<br/>
 手机端触屏滚动插件[mobiscroll](https://demo.mobiscroll.com/v3/jquery/datetime/date/#lang=zh)<br/>
 瀑布流插件[Masonry](https://masonry.desandro.com/)<br/>
+
+ECMAScript6 [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
