@@ -8,5 +8,5 @@
 CSS预处理语言：[Less](http://lesscss.cn/)中文网；框架简介 [website](https://www.ibm.com/developerworks/cn/web/1207_zhaoch_lesscss/)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sass](https://www.sass.hk/)中文网；用法指南 [website](http://www.ruanyifeng.com/blog/2012/06/sass.html)<br/>
 ## 实用工具
-模块打包器webpack [webpack](https://doc.webpack-china.org/concepts/)中文网；入门webpack [website] (http://www.jianshu.com/p/42e11515c10f)<br>
+模块打包器webpack [webpack](https://doc.webpack-china.org/concepts/)中文网；入门webpack [website](http://www.jianshu.com/p/42e11515c10f)<br>
 版本控制系统Git [Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)；Git与GitHub使用简介 [website](http://blog.csdn.net/kingzone_2008/article/details/8533868)<br/>
