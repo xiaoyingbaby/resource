@@ -15,6 +15,6 @@ CSS预处理语言：[Less](http://lesscss.cn/)中文网；框架简介 [website
 弹框/层插件layer [layer官方演示与讲解](http://layer.layui.com/)<br/>
 微信公众账号组件jQuery WEUI [http://jqweui.com/](http://jqweui.com/)<br/>
 网站常用特效展示插件SuperSlide [官网](http://www.superslide2.com/index.html)<br/>
-幻灯片特效[Sudo Slider](http://webbies.dk/SudoSlider/demos.html#basic)
+幻灯片特效[Sudo Slider](http://webbies.dk/SudoSlider/demos.html#basic)<br/>
 手机端触屏滚动插件[mobiscroll](https://demo.mobiscroll.com/v3/jquery/datetime/date/#lang=zh)<br/>
 瀑布流插件[Masonry](https://masonry.desandro.com/)<br/>
