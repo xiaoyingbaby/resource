@@ -20,5 +20,4 @@ CSS预处理语言：[Less](http://lesscss.cn/)中文网；框架简介 [website
 瀑布流插件[Masonry](https://masonry.desandro.com/)<br/>
 Element后台组件库 [Element UI](http://element.eleme.io/#/zh-CN/component/installation)<br/>
 
-ECMAScript6 [ECMAScript 6 入门](http://es6.ruanyifeng.com/)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ES6教程](http://jsrun.net/tutorial/cZKKp)
+ECMAScript6 [ECMAScript 6 入门](http://es6.ruanyifeng.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ES6教程](http://jsrun.net/tutorial/cZKKp)
