@@ -19,5 +19,6 @@ CSS预处理语言：[Less](http://lesscss.cn/)中文网；框架简介 [website
 手机端触屏滚动插件[mobiscroll](https://demo.mobiscroll.com/v3/jquery/datetime/date/#lang=zh)<br/>
 瀑布流插件[Masonry](https://masonry.desandro.com/)<br/>
 Element后台组件库 [Element UI](http://element.eleme.io/#/zh-CN/component/installation)<br/>
+拖拽排序插件 [dragsort](https://archive.codeplex.com/?p=dragsort)<br/>
 
 ECMAScript6 [ECMAScript 6 入门](http://es6.ruanyifeng.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ES6教程](http://jsrun.net/tutorial/cZKKp)
